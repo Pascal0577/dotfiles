@@ -10,7 +10,7 @@ Simple dotfiles for Hyprland that I made, largey based on the Cattpuccin Macchia
 ## Dependencies:
 
 ```
-yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker hyprpanel-bin pytjon-gpustat anyrun-git catppuccin-gtk-theme-macchiato
+yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker hyprpanel-bin pytjon-gpustat anyrun-git catppuccin-gtk-theme-macchiato kitty
 ```
 
 Currently QT6 applications do not follow the theme correctly and I haven't figured out how to fix it yet.
