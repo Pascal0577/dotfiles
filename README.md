@@ -9,4 +9,6 @@ Simple dotfiles for Hyprland that I made, largey based on the Cattpuccin Macchia
 
 Here are some dependencies that you will need to use to config:
 
-  ```yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker hyprpanel-bin pyhton-gpustat anyrun-git catppuccin-gtk-theme-macchiato```
+```
+yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker hyprpanel-bin pyhton-gpustat anyrun-git catppuccin-gtk-theme-macchiato
+```
