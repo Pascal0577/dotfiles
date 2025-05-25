@@ -280,5 +280,13 @@
   "bar.workspaces.showApplicationIcons": false,
   "theme.bar.buttons.workspaces.smartHighlight": true,
   "theme.bar.buttons.systray.enableBorder": false,
-  "theme.bar.buttons.battery.enableBorder": false
+  "theme.bar.buttons.battery.enableBorder": false,
+  "theme.notification.opacity": 95,
+  "theme.notification.radius": "2px",
+  "theme.notification.border": "#f0c6c6",
+  "theme.notification.border_radius": "2px",
+  "theme.notification.enableShadow": false,
+  "notifications.showActionsOnHover": true,
+  "notifications.position": "top right",
+  "theme.notification.shadowMargins": "2px 2px"
 }
