@@ -1,5 +1,5 @@
 window {
-    background-color: rgba(30, 30, 30, 0);
+    background-color: rgba(30, 30, 30, 0.3);
     border-radius: 0px;
     padding: 0px;
 }
@@ -9,6 +9,5 @@ entry {
     border: 2px solid #f0c6c6;
     padding: 5px;
     border-radius: 3px;
-    color: white;
-    background-color: rgba(54, 58, 79, 95);
+    background-color: rgba(54, 58, 79, 1);
 }
