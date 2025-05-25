@@ -1,7 +1,5 @@
-# dotfiles
-Simple dotfiles for Hyprland that I made, largey based on the Catpuccin Macchiato colors. It has minimal spacing between windows, and no spacing at all between between windows and the edge of the screen, as well as no rounded corners. It uses [Hyprpanel](https://github.com/Jas-SinghFSU/HyprPanel) as a status bar.
-
-The name of the directory should be `.config` not `config`, but renaming directories in GitHub is unreasonably annoying to do, so I didn't do it.
+# Hyprland Config
+Simple dotfiles for Hyprland that I made, based on the [Catpuccin Macchiato colors](https://catppuccin.com/palette/), with minimal spacing and sharp corners. It uses [Hyprpanel](https://github.com/Jas-SinghFSU/HyprPanel) as a status bar.
 
 ## Screenshots:
 ![2025-03-07-201046_hyprshot](https://github.com/user-attachments/assets/4902ab9a-6301-4a93-9832-3f73537984d2) 
@@ -12,7 +10,7 @@ The name of the directory should be `.config` not `config`, but renaming directo
 ## Dependencies:
 
 ```
-yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker hyprpanel-bin pytjon-gpustat anyrun-git catppuccin-gtk-theme-macchiato kitty
+yay -S --needed hyprland hyprpaper hyprlock hyprshot hyprpicker ags-hyprpanel-git python-gpustat anyrun-git sww
 ```
 
-Currently QT6 applications do not follow the theme correctly and I haven't figured out how to fix it yet.
+KDE apps don't follow theming and put me through more hell than libadwaita ever could. 
