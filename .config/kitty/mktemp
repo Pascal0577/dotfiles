@@ -1,9 +1,0 @@
-shell zsh
-background_opacity 0.5
-confirm_os_window_close 0
-clipboard_control no-ask
-
-# BEGIN_KITTY_THEME
-# Catppuccin-Macchiato
-include current-theme.conf
-# END_KITTY_THEME
