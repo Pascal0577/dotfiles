@@ -1,13 +1,13 @@
 window {
-    background-color: rgba(30, 30, 30, 0.3);
+    background-color: rgba(30, 30, 30, 0.4);
     border-radius: 0px;
     padding: 0px;
 }
 
 entry {
     all: unset;
-    border: 2px solid #f0c6c6;
+    border: 2px solid #d5b69d;
     padding: 5px;
-    border-radius: 3px;
+    border-radius: 5px;
     background-color: rgba(54, 58, 79, 1);
 }
